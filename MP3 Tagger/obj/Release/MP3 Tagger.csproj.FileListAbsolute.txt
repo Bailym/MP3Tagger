@@ -1,0 +1,67 @@
+C:\Users\bm39\Documents\Visual Studio 2015\Projects\MP3 Tagger\MP3 Tagger\bin\Release\MP3 Tagger.exe.config
+C:\Users\bm39\Documents\Visual Studio 2015\Projects\MP3 Tagger\MP3 Tagger\bin\Release\MP3 Tagger.exe.manifest
+C:\Users\bm39\Documents\Visual Studio 2015\Projects\MP3 Tagger\MP3 Tagger\bin\Release\MP3 Tagger.application
+C:\Users\bm39\Documents\Visual Studio 2015\Projects\MP3 Tagger\MP3 Tagger\bin\Release\MP3 Tagger.exe
+C:\Users\bm39\Documents\Visual Studio 2015\Projects\MP3 Tagger\MP3 Tagger\bin\Release\MP3 Tagger.pdb
+C:\Users\bm39\Documents\Visual Studio 2015\Projects\MP3 Tagger\MP3 Tagger\bin\Release\policy.2.0.taglib-sharp.dll
+C:\Users\bm39\Documents\Visual Studio 2015\Projects\MP3 Tagger\MP3 Tagger\bin\Release\taglib-sharp.dll
+C:\Users\bm39\Documents\Visual Studio 2015\Projects\MP3 Tagger\MP3 Tagger\bin\Release\policy.2.0.taglib-sharp.config
+C:\Users\bm39\Documents\Visual Studio 2015\Projects\MP3 Tagger\MP3 Tagger\obj\Release\MP3_Tagger.MP3Tagger.resources
+C:\Users\bm39\Documents\Visual Studio 2015\Projects\MP3 Tagger\MP3 Tagger\obj\Release\MP3_Tagger.Properties.Resources.resources
+C:\Users\bm39\Documents\Visual Studio 2015\Projects\MP3 Tagger\MP3 Tagger\obj\Release\MP3 Tagger.csproj.GenerateResource.Cache
+C:\Users\bm39\Documents\Visual Studio 2015\Projects\MP3 Tagger\MP3 Tagger\obj\Release\MP3 Tagger.exe.manifest
+C:\Users\bm39\Documents\Visual Studio 2015\Projects\MP3 Tagger\MP3 Tagger\obj\Release\MP3 Tagger.application
+C:\Users\bm39\Documents\Visual Studio 2015\Projects\MP3 Tagger\MP3 Tagger\obj\Release\MP3 Tagger.exe
+C:\Users\bm39\Documents\Visual Studio 2015\Projects\MP3 Tagger\MP3 Tagger\obj\Release\MP3 Tagger.pdb
+C:\Users\bm39\Documents\Visual Studio 2015\Projects\MP3 Tagger\MP3 Tagger\obj\Release\MP3 Tagger.csprojResolveAssemblyReference.cache
+D:\Dropbox\Public\Projects\MP3 Tagger\MP3 Tagger\bin\Release\MP3 Tagger.exe.config
+D:\Dropbox\Public\Projects\MP3 Tagger\MP3 Tagger\bin\Release\MP3 Tagger.exe.manifest
+D:\Dropbox\Public\Projects\MP3 Tagger\MP3 Tagger\bin\Release\MP3 Tagger.application
+D:\Dropbox\Public\Projects\MP3 Tagger\MP3 Tagger\bin\Release\MP3 Tagger.exe
+D:\Dropbox\Public\Projects\MP3 Tagger\MP3 Tagger\bin\Release\MP3 Tagger.pdb
+D:\Dropbox\Public\Projects\MP3 Tagger\MP3 Tagger\bin\Release\policy.2.0.taglib-sharp.dll
+D:\Dropbox\Public\Projects\MP3 Tagger\MP3 Tagger\bin\Release\taglib-sharp.dll
+D:\Dropbox\Public\Projects\MP3 Tagger\MP3 Tagger\bin\Release\policy.2.0.taglib-sharp.config
+D:\Dropbox\Public\Projects\MP3 Tagger\MP3 Tagger\obj\Release\MP3 Tagger.csprojResolveAssemblyReference.cache
+D:\Dropbox\Public\Projects\MP3 Tagger\MP3 Tagger\obj\Release\MP3_Tagger.MP3Tagger.resources
+D:\Dropbox\Public\Projects\MP3 Tagger\MP3 Tagger\obj\Release\MP3_Tagger.Properties.Resources.resources
+D:\Dropbox\Public\Projects\MP3 Tagger\MP3 Tagger\obj\Release\MP3 Tagger.csproj.GenerateResource.Cache
+D:\Dropbox\Public\Projects\MP3 Tagger\MP3 Tagger\obj\Release\MP3 Tagger.csproj.CoreCompileInputs.cache
+D:\Dropbox\Public\Projects\MP3 Tagger\MP3 Tagger\obj\Release\MP3 Tagger.exe.manifest
+D:\Dropbox\Public\Projects\MP3 Tagger\MP3 Tagger\obj\Release\MP3 Tagger.application
+D:\Dropbox\Public\Projects\MP3 Tagger\MP3 Tagger\obj\Release\MP3 Tagger.exe
+D:\Dropbox\Public\Projects\MP3 Tagger\MP3 Tagger\obj\Release\MP3 Tagger.pdb
+C:\Users\bm39\Dropbox\Public\Projects\MP3 Tagger\MP3 Tagger\obj\Release\MP3 Tagger.csprojResolveAssemblyReference.cache
+C:\Users\bm39\Dropbox\Public\Projects\MP3 Tagger\MP3 Tagger\obj\Release\MP3_Tagger.MP3Tagger.resources
+C:\Users\bm39\Dropbox\Public\Projects\MP3 Tagger\MP3 Tagger\obj\Release\MP3_Tagger.Properties.Resources.resources
+C:\Users\bm39\Dropbox\Public\Projects\MP3 Tagger\MP3 Tagger\obj\Release\MP3 Tagger.csproj.GenerateResource.Cache
+C:\Users\bm39\Dropbox\Public\Projects\MP3 Tagger\MP3 Tagger\obj\Release\MP3 Tagger.csproj.CoreCompileInputs.cache
+C:\Users\bm39\Dropbox\Public\Projects\MP3 Tagger\MP3 Tagger\obj\Release\MP3 Tagger.exe
+C:\Users\bm39\Dropbox\Public\Projects\MP3 Tagger\MP3 Tagger\obj\Release\MP3 Tagger.pdb
+C:\Users\bm39\Dropbox\Public\Projects\MP3 Tagger\MP3 Tagger\bin\Release\MP3 Tagger.exe.config
+C:\Users\bm39\Dropbox\Public\Projects\MP3 Tagger\MP3 Tagger\bin\Release\MP3 Tagger.exe.manifest
+C:\Users\bm39\Dropbox\Public\Projects\MP3 Tagger\MP3 Tagger\bin\Release\MP3 Tagger.application
+C:\Users\bm39\Dropbox\Public\Projects\MP3 Tagger\MP3 Tagger\bin\Release\MP3 Tagger.exe
+C:\Users\bm39\Dropbox\Public\Projects\MP3 Tagger\MP3 Tagger\bin\Release\MP3 Tagger.pdb
+C:\Users\bm39\Dropbox\Public\Projects\MP3 Tagger\MP3 Tagger\bin\Release\policy.2.0.taglib-sharp.dll
+C:\Users\bm39\Dropbox\Public\Projects\MP3 Tagger\MP3 Tagger\bin\Release\taglib-sharp.dll
+C:\Users\bm39\Dropbox\Public\Projects\MP3 Tagger\MP3 Tagger\bin\Release\policy.2.0.taglib-sharp.config
+C:\Users\bm39\Dropbox\Public\Projects\MP3 Tagger\MP3 Tagger\obj\Release\MP3 Tagger.exe.manifest
+C:\Users\bm39\Dropbox\Public\Projects\MP3 Tagger\MP3 Tagger\obj\Release\MP3 Tagger.application
+C:\Users\Baily\Dropbox\Public\Projects\MP3 Tagger\MP3 Tagger\bin\Release\MP3 Tagger.exe.config
+C:\Users\Baily\Dropbox\Public\Projects\MP3 Tagger\MP3 Tagger\bin\Release\MP3 Tagger.exe.manifest
+C:\Users\Baily\Dropbox\Public\Projects\MP3 Tagger\MP3 Tagger\bin\Release\MP3 Tagger.application
+C:\Users\Baily\Dropbox\Public\Projects\MP3 Tagger\MP3 Tagger\bin\Release\MP3 Tagger.exe
+C:\Users\Baily\Dropbox\Public\Projects\MP3 Tagger\MP3 Tagger\bin\Release\MP3 Tagger.pdb
+C:\Users\Baily\Dropbox\Public\Projects\MP3 Tagger\MP3 Tagger\bin\Release\policy.2.0.taglib-sharp.dll
+C:\Users\Baily\Dropbox\Public\Projects\MP3 Tagger\MP3 Tagger\bin\Release\taglib-sharp.dll
+C:\Users\Baily\Dropbox\Public\Projects\MP3 Tagger\MP3 Tagger\bin\Release\policy.2.0.taglib-sharp.config
+C:\Users\Baily\Dropbox\Public\Projects\MP3 Tagger\MP3 Tagger\obj\Release\MP3 Tagger.csprojResolveAssemblyReference.cache
+C:\Users\Baily\Dropbox\Public\Projects\MP3 Tagger\MP3 Tagger\obj\Release\MP3_Tagger.MP3Tagger.resources
+C:\Users\Baily\Dropbox\Public\Projects\MP3 Tagger\MP3 Tagger\obj\Release\MP3_Tagger.Properties.Resources.resources
+C:\Users\Baily\Dropbox\Public\Projects\MP3 Tagger\MP3 Tagger\obj\Release\MP3 Tagger.csproj.GenerateResource.Cache
+C:\Users\Baily\Dropbox\Public\Projects\MP3 Tagger\MP3 Tagger\obj\Release\MP3 Tagger.csproj.CoreCompileInputs.cache
+C:\Users\Baily\Dropbox\Public\Projects\MP3 Tagger\MP3 Tagger\obj\Release\MP3 Tagger.exe.manifest
+C:\Users\Baily\Dropbox\Public\Projects\MP3 Tagger\MP3 Tagger\obj\Release\MP3 Tagger.application
+C:\Users\Baily\Dropbox\Public\Projects\MP3 Tagger\MP3 Tagger\obj\Release\MP3 Tagger.exe
+C:\Users\Baily\Dropbox\Public\Projects\MP3 Tagger\MP3 Tagger\obj\Release\MP3 Tagger.pdb

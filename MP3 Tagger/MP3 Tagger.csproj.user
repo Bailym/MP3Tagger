@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>C:\Users\bm39\Desktop\|C:\Program Files %28x86%29\|C:\Program Files %28x86%29\MP3Tagger\|C:\Program Files%28x86%29\MP3Tagger\|C:\Program Files\MP3Tagger\</PublishUrlHistory>
+    <InstallUrlHistory>https://www.dropbox.com/sh/bj2wbewiamzgqe8/AADAh5YFuqGZOh5vI-2yRxe9a%3fdl=0/|https://www.dropbox.com/sh/wik723wu7zex217/AACRKva2lC1A05H1pR_VZzFca%3fdl=0/</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>
