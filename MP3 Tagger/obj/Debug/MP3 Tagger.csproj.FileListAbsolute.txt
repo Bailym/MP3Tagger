@@ -91,3 +91,20 @@ C:\Users\bm39\OneDrive\Public\Projects\Misc\WinForms\MP3 Tagger\MP3 Tagger\obj\D
 C:\Users\bm39\OneDrive\Public\Projects\Misc\WinForms\MP3 Tagger\MP3 Tagger\obj\Debug\MP3 Tagger.csproj.CopyComplete
 C:\Users\bm39\OneDrive\Public\Projects\Misc\WinForms\MP3 Tagger\MP3 Tagger\obj\Debug\MP3 Tagger.exe
 C:\Users\bm39\OneDrive\Public\Projects\Misc\WinForms\MP3 Tagger\MP3 Tagger\obj\Debug\MP3 Tagger.pdb
+C:\Users\bm39\Desktop\MP3Tagger\MP3 Tagger\bin\Debug\MP3 Tagger.exe.config
+C:\Users\bm39\Desktop\MP3Tagger\MP3 Tagger\bin\Debug\MP3 Tagger.exe.manifest
+C:\Users\bm39\Desktop\MP3Tagger\MP3 Tagger\bin\Debug\MP3 Tagger.application
+C:\Users\bm39\Desktop\MP3Tagger\MP3 Tagger\bin\Debug\MP3 Tagger.exe
+C:\Users\bm39\Desktop\MP3Tagger\MP3 Tagger\bin\Debug\MP3 Tagger.pdb
+C:\Users\bm39\Desktop\MP3Tagger\MP3 Tagger\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\bm39\Desktop\MP3Tagger\MP3 Tagger\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\bm39\Desktop\MP3Tagger\MP3 Tagger\obj\Debug\MP3 Tagger.csprojAssemblyReference.cache
+C:\Users\bm39\Desktop\MP3Tagger\MP3 Tagger\obj\Debug\MP3_Tagger.MP3Tagger.resources
+C:\Users\bm39\Desktop\MP3Tagger\MP3 Tagger\obj\Debug\MP3_Tagger.Properties.Resources.resources
+C:\Users\bm39\Desktop\MP3Tagger\MP3 Tagger\obj\Debug\MP3 Tagger.csproj.GenerateResource.cache
+C:\Users\bm39\Desktop\MP3Tagger\MP3 Tagger\obj\Debug\MP3 Tagger.csproj.CoreCompileInputs.cache
+C:\Users\bm39\Desktop\MP3Tagger\MP3 Tagger\obj\Debug\MP3 Tagger.exe.manifest
+C:\Users\bm39\Desktop\MP3Tagger\MP3 Tagger\obj\Debug\MP3 Tagger.application
+C:\Users\bm39\Desktop\MP3Tagger\MP3 Tagger\obj\Debug\MP3 Tagger.csproj.CopyComplete
+C:\Users\bm39\Desktop\MP3Tagger\MP3 Tagger\obj\Debug\MP3 Tagger.exe
+C:\Users\bm39\Desktop\MP3Tagger\MP3 Tagger\obj\Debug\MP3 Tagger.pdb
